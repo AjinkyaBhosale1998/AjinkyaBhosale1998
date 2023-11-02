@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently exploring **MERN Stack Development**
 
-- 💬 Ask me about **ReactJs, JavaScript & Web Development**
+- 💬 Ask me about **Frontend - Web Development , Web3 & Blockchain**
 
 - 📫 How to reach me **in/ajinkya-bhosale-b8b2b0204**
 

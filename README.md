@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ajinkya-bhosale-b8b2b0204/**
 
+- 📩 Drop me a mail at: **bhosaleajinkya1998@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/ajinkya-bhosale-b8b2b0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ajinkya-bhosale-b8b2b0204" height="30" width="40" /></a>

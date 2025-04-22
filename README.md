@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **React, GraphQL, JavaScript/TypeScript, PostgreSQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ajinkya-bhosale-b8b2b0204/**
+- 💻 Personal Portfolio: **https://ajinkya-portfolio-smoky.vercel.app/** 
+
+- 📫 How to reach me: **https://www.linkedin.com/in/ajinkya-bhosale-b8b2b0204/**
 
 - 📩 Drop me a mail at: **bhosaleajinkya1998@gmail.com**
 

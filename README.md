@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">A passionate Frontend Web Developer from Pune, India.</h3>
+<h1 align="center">Hi 👋 I'm Ajinkya — a passionate Front-End React Developer from Pune, India.</h1>
+<h3 align="left"> React Developer | 3.4+ years experience | Building scalable, responsive web apps with React.js, TypeScript, Redux, and GraphQL. Passionate about creating pixel-perfect UIs, optimizing performance, and crafting seamless user experiences. Always learning, always building. 🚀 
+</h3>
 
 - 🔭 I’m currently exploring **Frontend Web Development, MERN Stack Development**
 
